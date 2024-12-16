@@ -6,9 +6,6 @@
 #include "Zagalne.h"
 #include "Zadacha1.h"
 
-int* Ne_vklucheni_elementu_A_v_B(int &P,int &N, int &M, int A[], int B[]);
-void Kopiuvanna_masuvy(int P, int C[], int D[]);
-
 void Elementu_A_ne_vklucheni_v_B()
 {
 	int N, M, P;

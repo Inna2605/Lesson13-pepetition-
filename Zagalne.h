@@ -17,11 +17,11 @@
 #define Random srand(time(NULL));
 
 #include "Zadacha1.h"
-//#include "Zadacha2.h"
+#include "Zadacha2.h"
 //#include "Zadacha3.h"
 //#include "Zadacha4.h"
 
 void Vubir_zadachi();
 void Swich_zadach(int &a);
-void Masuv(int& a, int A[]);
-void Show_masuv(int& a, int A[]);
+void Masuv(int a, int A[]);
+void Show_masuv(int a, int A[]);

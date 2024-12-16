@@ -24,12 +24,18 @@
     <ClCompile Include="Zagalne.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Zadacha2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Zadacha1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Zagalne.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Zadacha2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
