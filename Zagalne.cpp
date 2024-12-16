@@ -28,8 +28,8 @@ void Swich_zadach(int &a)
 {
 	switch (a) {
 	case 1:Elementu_A_ne_vklucheni_v_B(); break;
-	case 2:Elementu_A_i_B_ne_zagalni_dla_nux();break;
-	case 3:/*Masuv_z_elementamu_A_i_B();*/break;
+	case 2:Elementu_A_i_B_ne_zagalni_dla_nux(); break;
+	case 3:Masuv_z_elementamu_A_i_B(); break;
 	case 4:/*Vudalenna_elementiv_z_masuva();*/break;
 	case 5:break;
 	}

@@ -18,7 +18,7 @@
 
 #include "Zadacha1.h"
 #include "Zadacha2.h"
-//#include "Zadacha3.h"
+#include "Zadacha3.h"
 //#include "Zadacha4.h"
 
 void Vubir_zadachi();

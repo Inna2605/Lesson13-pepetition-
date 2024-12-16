@@ -130,11 +130,13 @@
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Zadacha1.cpp" />
     <ClCompile Include="Zadacha2.cpp" />
+    <ClCompile Include="Zadacha3.cpp" />
     <ClCompile Include="Zagalne.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Zadacha1.h" />
     <ClInclude Include="Zadacha2.h" />
+    <ClInclude Include="Zadacha3.h" />
     <ClInclude Include="Zagalne.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

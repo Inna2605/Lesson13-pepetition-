@@ -5,8 +5,6 @@
 #include "Zadacha2.h"
 #include "Zadacha1.h"
 
-int* Obednenna_masuviv(int& N, int& M, int A[], int B[]);
-
 void Elementu_A_i_B_ne_zagalni_dla_nux()
 {
 	int N, M, P, R;
